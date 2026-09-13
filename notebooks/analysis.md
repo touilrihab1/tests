@@ -13,3 +13,5 @@ Revenue leakage is highly concentrated in a few months. **December 2011 recorded
 Overall, 17,824 negative-quantity return entries were identified.
 
 **Q2:**
+
+Customer ID 0 was excluded because it represents guest/anonymously recorded transactions rather than an identifiable customer, so it is not suitable for per-customer RFM analysis.
